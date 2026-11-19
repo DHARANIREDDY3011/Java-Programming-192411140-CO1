@@ -1,7 +1,7 @@
 # CO3 Assignment 3 – Pair Report
 
-**Student A:** ____________________  **Register No.:** ____________________  
-**Student B:** ____________________  **Register No.:** ____________________  
+**Student A:** Katappagari Dharani  **Register No.:** 192411140 
+**Student B:** D.Vyshali  **Register No.:** 192411197  
 **Java Version:** ____________________  
 **Student A GitHub:** ____________________  
 **Student B GitHub:** ____________________
