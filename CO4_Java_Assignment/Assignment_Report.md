@@ -1,8 +1,8 @@
 # PROGRAMMING IN JAVA – ASSIGNMENT 4 (CO4)
 ## EVENT-DRIVEN GUI DESIGN
 
-**Student Name:** ____________________  
-**Register Number:** ____________________  
+**Student Name:** Katappagari Dharani  
+**Register Number:** 192411140 
 **Course:** Programming in Java (CSA09)  
 **GitHub Repository:** ____________________  
 **Java Version:** ____________________
